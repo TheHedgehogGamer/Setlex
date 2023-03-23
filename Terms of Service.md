@@ -1,4 +1,4 @@
-# Setlex Terms of Service
+# Terms of Service
 
 Welcome to Setlex, a Discord bot developed and owned by TheHedgehogGamer. By using Setlex, you agree to the following terms and conditions:
 
